@@ -4,7 +4,8 @@ The final project is a web application with basic functionality for a user to cr
 
 
 
-![File_000](https://user-images.githubusercontent.com/112356734/218620018-76db6438-e373-4f96-a5c6-e51df2ab1b74.jpeg)
+![File_000 (1)](https://user-images.githubusercontent.com/112356734/218620400-1aa94758-cd95-4a33-a770-e221494e38ee.jpeg)
+
 
 
 
